@@ -1,2 +1,3 @@
 # expecttrackers
-Created a expense tracker using Javascript
+Created a expense tracker using Javascript, HtML and CSS
+
